@@ -20,6 +20,7 @@
     
     self.view.backgroundColor = [UIColor redColor];
     //kojladsajflksajfklajs
+    //akdfjlaksdj;aDJS;LA
 }
 
 - (void)didReceiveMemoryWarning {
