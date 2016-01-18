@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3638E991-0850-40FC-9034-2BF14A9F0991</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B14F1DB35182CD9264EB18609C58BA9F7DE03AB</key>
+		<string>https://github.com/li7846/LILI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dasdad/dasdad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B14F1DB35182CD9264EB18609C58BA9F7DE03AB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/li7846/LILI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B14F1DB35182CD9264EB18609C58BA9F7DE03AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B14F1DB35182CD9264EB18609C58BA9F7DE03AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LILI</string>
+		</dict>
+	</array>
+</dict>
+</plist>

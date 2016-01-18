@@ -14,6 +14,7 @@
 		BC7B2D951C4CD741003B8452 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC7B2D941C4CD741003B8452 /* Images.xcassets */; };
 		BC7B2D981C4CD741003B8452 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC7B2D961C4CD741003B8452 /* LaunchScreen.xib */; };
 		BC7B2DA41C4CD742003B8452 /* dasdadTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7B2DA31C4CD742003B8452 /* dasdadTests.m */; };
+		BC7B2DB21C4CDB19003B8452 /* LiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7B2DB11C4CDB19003B8452 /* LiViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		BC7B2D9D1C4CD742003B8452 /* dasdadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dasdadTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7B2DA21C4CD742003B8452 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC7B2DA31C4CD742003B8452 /* dasdadTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dasdadTests.m; sourceTree = "<group>"; };
+		BC7B2DB01C4CDB19003B8452 /* LiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LiViewController.h; sourceTree = "<group>"; };
+		BC7B2DB11C4CDB19003B8452 /* LiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LiViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				BC7B2D8C1C4CD741003B8452 /* AppDelegate.m */,
 				BC7B2D8E1C4CD741003B8452 /* ViewController.h */,
 				BC7B2D8F1C4CD741003B8452 /* ViewController.m */,
+				BC7B2DB01C4CDB19003B8452 /* LiViewController.h */,
+				BC7B2DB11C4CDB19003B8452 /* LiViewController.m */,
 				BC7B2D911C4CD741003B8452 /* Main.storyboard */,
 				BC7B2D941C4CD741003B8452 /* Images.xcassets */,
 				BC7B2D961C4CD741003B8452 /* LaunchScreen.xib */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC7B2D901C4CD741003B8452 /* ViewController.m in Sources */,
+				BC7B2DB21C4CDB19003B8452 /* LiViewController.m in Sources */,
 				BC7B2D8D1C4CD741003B8452 /* AppDelegate.m in Sources */,
 				BC7B2D8A1C4CD741003B8452 /* main.m in Sources */,
 			);
@@ -416,6 +422,7 @@
 				BC7B2DA91C4CD742003B8452 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC7B2DAA1C4CD742003B8452 /* Build configuration list for PBXNativeTarget "dasdadTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				BC7B2DAC1C4CD742003B8452 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
